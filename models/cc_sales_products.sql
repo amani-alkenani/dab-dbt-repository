@@ -4,7 +4,6 @@
   )
 }}
 
-
 SELECT
   ### Key ###  
   product_id
